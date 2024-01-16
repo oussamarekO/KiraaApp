@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./App",
+      "paths": {
+        "@screens/*": ["./screens/*"],
+        "@globals/*": ["./Global/*"]
+      }
+    }
+  }
+  

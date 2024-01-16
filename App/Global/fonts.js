@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 
-export default StyleSheet.create({
+export default fonts = StyleSheet.create({
     bold: "Montserrat-Bold", 
     extraBold: "Montserrat-ExtraBold", 
     extraLight: "Montserrat-ExtraLight",
